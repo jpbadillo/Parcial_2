@@ -1,0 +1,11 @@
+C:\Users\Carmen Benavides\Downloads\Parcial_#2 - Programacion\Parcial_#2 - Programacion\Parcial_2\Logica\bin\Debug\Logica.dll
+C:\Users\Carmen Benavides\Downloads\Parcial_#2 - Programacion\Parcial_#2 - Programacion\Parcial_2\Logica\bin\Debug\Logica.pdb
+C:\Users\Carmen Benavides\Downloads\Parcial_#2 - Programacion\Parcial_#2 - Programacion\Parcial_2\Logica\bin\Debug\Datos.dll
+C:\Users\Carmen Benavides\Downloads\Parcial_#2 - Programacion\Parcial_#2 - Programacion\Parcial_2\Logica\bin\Debug\Entidades.dll
+C:\Users\Carmen Benavides\Downloads\Parcial_#2 - Programacion\Parcial_#2 - Programacion\Parcial_2\Logica\bin\Debug\Datos.pdb
+C:\Users\Carmen Benavides\Downloads\Parcial_#2 - Programacion\Parcial_#2 - Programacion\Parcial_2\Logica\bin\Debug\Entidades.pdb
+C:\Users\Carmen Benavides\Downloads\Parcial_#2 - Programacion\Parcial_#2 - Programacion\Parcial_2\Logica\obj\Debug\Logica.csproj.AssemblyReference.cache
+C:\Users\Carmen Benavides\Downloads\Parcial_#2 - Programacion\Parcial_#2 - Programacion\Parcial_2\Logica\obj\Debug\Logica.csproj.CoreCompileInputs.cache
+C:\Users\Carmen Benavides\Downloads\Parcial_#2 - Programacion\Parcial_#2 - Programacion\Parcial_2\Logica\obj\Debug\Logica.csproj.CopyComplete
+C:\Users\Carmen Benavides\Downloads\Parcial_#2 - Programacion\Parcial_#2 - Programacion\Parcial_2\Logica\obj\Debug\Logica.dll
+C:\Users\Carmen Benavides\Downloads\Parcial_#2 - Programacion\Parcial_#2 - Programacion\Parcial_2\Logica\obj\Debug\Logica.pdb

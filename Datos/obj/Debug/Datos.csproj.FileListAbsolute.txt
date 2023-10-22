@@ -1,0 +1,9 @@
+C:\Users\Carmen Benavides\Downloads\Parcial_#2 - Programacion\Parcial_#2 - Programacion\Parcial_2\Datos\bin\Debug\Datos.dll
+C:\Users\Carmen Benavides\Downloads\Parcial_#2 - Programacion\Parcial_#2 - Programacion\Parcial_2\Datos\bin\Debug\Datos.pdb
+C:\Users\Carmen Benavides\Downloads\Parcial_#2 - Programacion\Parcial_#2 - Programacion\Parcial_2\Datos\bin\Debug\Entidades.dll
+C:\Users\Carmen Benavides\Downloads\Parcial_#2 - Programacion\Parcial_#2 - Programacion\Parcial_2\Datos\bin\Debug\Entidades.pdb
+C:\Users\Carmen Benavides\Downloads\Parcial_#2 - Programacion\Parcial_#2 - Programacion\Parcial_2\Datos\obj\Debug\Datos.csproj.AssemblyReference.cache
+C:\Users\Carmen Benavides\Downloads\Parcial_#2 - Programacion\Parcial_#2 - Programacion\Parcial_2\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\Users\Carmen Benavides\Downloads\Parcial_#2 - Programacion\Parcial_#2 - Programacion\Parcial_2\Datos\obj\Debug\Datos.csproj.CopyComplete
+C:\Users\Carmen Benavides\Downloads\Parcial_#2 - Programacion\Parcial_#2 - Programacion\Parcial_2\Datos\obj\Debug\Datos.dll
+C:\Users\Carmen Benavides\Downloads\Parcial_#2 - Programacion\Parcial_#2 - Programacion\Parcial_2\Datos\obj\Debug\Datos.pdb
